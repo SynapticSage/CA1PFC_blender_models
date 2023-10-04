@@ -1,4 +1,6 @@
-*.png
 *.svg
 *.mpeg
 *.mp4
+./ca1-pfc-fancy/
+./ca1pfc-image/
+*rotation*
