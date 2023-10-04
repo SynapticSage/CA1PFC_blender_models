@@ -1,4 +1,4 @@
 # 3d_brain_models
 
-[[./pfc-ca1_flow.png]]
-[[./pfc-ca1_full.png]]
+![Standard model](./pfc-ca1_flow.png)]
+![With light emission](./pfc-ca1_full.png)
